@@ -21,15 +21,16 @@
 * [tsung](http://tsung.erlang-projects.org/)
 * AWS
 
-### FSM:
-![FSM](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/Bounty-Hunters.png "FSM")
-
 ### Screenshots:
 #### Landing Page
 ![Landing Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/Landing-page.png "Landing Page")
+
 #### Main Page
 ![Landing Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/MainPage.png "Main Page")
+
 #### Pending Tasks Page
 ![Pending Tasks Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/PendingPage.png "Pending Tasks Page")
-#### Search Tasks Page
+
+#### FSM:
+![FSM](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/Bounty-Hunters.png "FSM")
 
