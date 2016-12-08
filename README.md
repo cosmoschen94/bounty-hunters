@@ -11,3 +11,12 @@
 [andrew]: ./photos/andrew.png "@PlatformTwo"
 [howard]: ./photos/howard.png "@H-Huang"
 [alex]: ./photos/alex.png "@alexmwaz"
+
+Technology used:
+* Ruby on Rails
+* [Devise](https://github.com/plataformatec/devise)
+* [Geocoder](http://www.rubygeocoder.com/)
+* [Google Maps](https://developers.google.com/maps/)
+* [will-paginate](https://github.com/mislav/will_paginate)
+* [tsung](http://tsung.erlang-projects.org/)
+* AWS
