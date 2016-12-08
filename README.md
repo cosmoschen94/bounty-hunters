@@ -12,6 +12,9 @@
 [howard]: ./photos/howard.png "@H-Huang"
 [alex]: ./photos/alex.png "@alexmwaz"
 
+### Demo:
+![Landing Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/Landing-page.png "Landing Page")
+
 Technology used:
 * Ruby on Rails
 * [Devise](https://github.com/plataformatec/devise)
