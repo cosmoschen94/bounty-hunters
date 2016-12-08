@@ -12,10 +12,7 @@
 [howard]: ./photos/howard.png "@H-Huang"
 [alex]: ./photos/alex.png "@alexmwaz"
 
-### Demo:
-![Landing Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/Landing-page.png "Landing Page")
-
-Technology used:
+### Technology used:
 * Ruby on Rails
 * [Devise](https://github.com/plataformatec/devise)
 * [Geocoder](http://www.rubygeocoder.com/)
@@ -23,3 +20,16 @@ Technology used:
 * [will-paginate](https://github.com/mislav/will_paginate)
 * [tsung](http://tsung.erlang-projects.org/)
 * AWS
+
+### FSM:
+![FSM](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/Bounty-Hunters.png "FSM")
+
+### Screenshots:
+#### Landing Page
+![Landing Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/Landing-page.png "Landing Page")
+#### Main Page
+![Landing Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/MainPage.png "Main Page")
+#### Pending Tasks Page
+![Pending Tasks Page](https://github.com/cosmoschen94/bounty-hunters/blob/master/photos/PendingPage.png "Pending Tasks Page")
+#### Search Tasks Page
+
