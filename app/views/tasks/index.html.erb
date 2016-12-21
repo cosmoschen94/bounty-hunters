@@ -1,7 +1,6 @@
 
 <% if @tasks.present? %>
-    <%= render partial: "tasks/task", collection: @tasks %>
-    <%= yield %>
+    <%= render partial: "task", object: @tasks %>
 <% else %>
     <br>
     <p>There are no tasks containing the tag(s) <%= params[:search] %>.</p>
